@@ -1,6 +1,7 @@
 {
   "name": "test-ng-app-one",
   "version": "0.0.1",
+  "description": "This is a description",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
